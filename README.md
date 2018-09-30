@@ -25,8 +25,8 @@ Keep in mind that the JSON responses you will be getting from the API map almost
 
 
 # IMPORTANT NOTE
-Please note that the 340 first lines or so were NOT related to the project. I was just having fun exploring the data.
+Please note that the first 340 cells/lines were NOT related directly to the exercise. I was just having fun exploring the data.
 
 # IMPORTANT NOTE 2
-Question (7) was not meant to be asnwered that way. I know I should have implemented my own function. I couldn't resist the temptation of importing the statistics module. Sorry. 
+Question (7) was not meant to be asnwered that way. I know I should have implemented my own function. I just couldn't resist the temptation of importing the statistics module. Sorry. 
 
