@@ -26,6 +26,5 @@ Keep in mind that the JSON responses you will be getting from the API map almost
 
 
 
-NOTE: 
-
+# IMPORTANT NOTE
 Please note that the 340 first lines were NOT related to the project. I was just having fun exploring the data.
